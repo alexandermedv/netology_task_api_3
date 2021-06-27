@@ -1,0 +1,788 @@
+{
+    "items": [
+        {
+            "tags": [
+                "python",
+                "machine-learning",
+                "scikit-learn",
+                "regression",
+                "svm"
+            ],
+            "owner": {
+                "reputation": 1,
+                "user_id": 15015411,
+                "user_type": "registered",
+                "profile_image": "https://lh6.googleusercontent.com/-eoxX3UCF62I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnaAE8knZN7jS8XPzvXLHwZJIrDfw/s96-c/photo.jpg?sz=128",
+                "display_name": "Kacper Cichosz",
+                "link": "https://stackoverflow.com/users/15015411/kacper-cichosz"
+            },
+            "is_answered": false,
+            "view_count": 2,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1624811735,
+            "creation_date": 1624811735,
+            "question_id": 68153264,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68153264/how-to-fit-my-dataset-to-regression-models-and-how-to-evaluate-it",
+            "title": "How to fit my dataset to regression models and how to evaluate it?"
+        },
+        {
+            "tags": [
+                "python",
+                "machine-learning",
+                "data-science",
+                "decision-tree"
+            ],
+            "owner": {
+                "reputation": 1,
+                "user_id": 15034561,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/-OHOCbwlMmXs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnYNSikPNnmedsbBjjaougYBZpjQQ/s96-c/photo.jpg?sz=128",
+                "display_name": "P K",
+                "link": "https://stackoverflow.com/users/15034561/p-k"
+            },
+            "is_answered": false,
+            "view_count": 2,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1624811721,
+            "creation_date": 1624811721,
+            "question_id": 68153262,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68153262/building-decision-tree-with-python-multiple-label-as-output-how-do-i-implemen",
+            "title": "Building Decision Tree with python: multiple label as output , how do I implement the information gain for each split point?"
+        },
+        {
+            "tags": [
+                "python",
+                "selenium",
+                "selenium-webdriver",
+                "selenium-chromedriver"
+            ],
+            "owner": {
+                "reputation": 33,
+                "user_id": 16227538,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/e8e3e14acd7078831ae9742ea8d91b5b?s=128&d=identicon&r=PG&f=1",
+                "display_name": "JesJos",
+                "link": "https://stackoverflow.com/users/16227538/jesjos"
+            },
+            "is_answered": false,
+            "view_count": 35,
+            "answer_count": 2,
+            "score": 0,
+            "last_activity_date": 1624811708,
+            "creation_date": 1624655495,
+            "last_edit_date": 1624811708,
+            "question_id": 68137102,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68137102/attributeerror-bytes-object-has-no-attribute-presence-of-element-located",
+            "title": "AttributeError: &#39;bytes&#39; object has no attribute &#39;presence_of_element_located&#39;"
+        },
+        {
+            "tags": [
+                "python",
+                "python-3.x",
+                "list",
+                "boolean"
+            ],
+            "owner": {
+                "reputation": 453,
+                "user_id": 13072752,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a-/AOh14Gjbqi-6VSgS1r0gUchXvUfs1lXkH8VId1VwRDhd=k-s128",
+                "display_name": "Tiago Emanuel Pratas",
+                "link": "https://stackoverflow.com/users/13072752/tiago-emanuel-pratas"
+            },
+            "is_answered": false,
+            "view_count": 2,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1624811702,
+            "creation_date": 1624811702,
+            "question_id": 68153257,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68153257/make-boolean-value-when-equal-to",
+            "title": "Make boolean value when equal to &#39;]&#39;"
+        },
+        {
+            "tags": [
+                "python",
+                "pandas",
+                "pandas-groupby",
+                "apply"
+            ],
+            "owner": {
+                "reputation": 2491,
+                "user_id": 5058116,
+                "user_type": "registered",
+                "accept_rate": 82,
+                "profile_image": "https://www.gravatar.com/avatar/e8b3aa44d365bdecde8cda380de17513?s=128&d=identicon&r=PG&f=1",
+                "display_name": "alex_lewis",
+                "link": "https://stackoverflow.com/users/5058116/alex-lewis"
+            },
+            "is_answered": false,
+            "view_count": 5,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1624811688,
+            "creation_date": 1624811688,
+            "question_id": 68153255,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68153255/apply-function-to-a-data-frame-group",
+            "title": "Apply function to a data frame group"
+        },
+        {
+            "tags": [
+                "python",
+                "python-3.x",
+                "global-variables"
+            ],
+            "owner": {
+                "reputation": 21,
+                "user_id": 16328027,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/92fefb5fb7076059df44fdc043b6a7b2?s=128&d=identicon&r=PG&f=1",
+                "display_name": "xHybrid",
+                "link": "https://stackoverflow.com/users/16328027/xhybrid"
+            },
+            "is_answered": false,
+            "view_count": 48,
+            "answer_count": 1,
+            "score": 2,
+            "last_activity_date": 1624811684,
+            "creation_date": 1624805669,
+            "last_edit_date": 1624811684,
+            "question_id": 68152369,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68152369/global-variables-between-modules",
+            "title": "Global variables between modules"
+        },
+        {
+            "tags": [
+                "python",
+                "json",
+                "web-scraping",
+                "beautifulsoup"
+            ],
+            "owner": {
+                "reputation": 3,
+                "user_id": 15062015,
+                "user_type": "registered",
+                "profile_image": "https://lh4.googleusercontent.com/-j-xWuNolydE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucloQ_V9PCcJGa9bjEek7nUqt47Llw/s96-c/photo.jpg?sz=128",
+                "display_name": "UrAverageCoder",
+                "link": "https://stackoverflow.com/users/15062015/uraveragecoder"
+            },
+            "is_answered": false,
+            "view_count": 2,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1624811665,
+            "creation_date": 1624811665,
+            "question_id": 68153252,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68153252/webscraping-with-beautifulsoup-and-json",
+            "title": "Webscraping with BeautifulSoup and json"
+        },
+        {
+            "tags": [
+                "python",
+                "tensorflow",
+                "keras",
+                "tensorflow2.0",
+                "attention-model"
+            ],
+            "owner": {
+                "reputation": 11,
+                "user_id": 16328377,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AATXAJz4ubUwqids1AC6U5nxYFu0MVevctGYlJHPRIst=k-s128",
+                "display_name": "Arghyadeep Sarkar",
+                "link": "https://stackoverflow.com/users/16328377/arghyadeep-sarkar"
+            },
+            "is_answered": false,
+            "view_count": 16,
+            "answer_count": 0,
+            "score": 1,
+            "last_activity_date": 1624811639,
+            "creation_date": 1624809678,
+            "last_edit_date": 1624811639,
+            "question_id": 68152972,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68152972/getting-error-while-converting-a-code-in-tf1-to-tf2",
+            "title": "Getting error while converting a code in tf1 to tf2"
+        },
+        {
+            "tags": [
+                "python",
+                "python-3.x",
+                "tkinter"
+            ],
+            "owner": {
+                "reputation": 23,
+                "user_id": 13081109,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/b7b8fb52b93196fccdacb7648e6f2cbf?s=128&d=identicon&r=PG&f=1",
+                "display_name": "Alex",
+                "link": "https://stackoverflow.com/users/13081109/alex"
+            },
+            "is_answered": false,
+            "view_count": 4,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1624811619,
+            "creation_date": 1624811619,
+            "question_id": 68153242,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68153242/tkinter-and-subprocess-are-blocked",
+            "title": "tkinter and subprocess are blocked"
+        },
+        {
+            "tags": [
+                "python",
+                "tkinter",
+                "tk"
+            ],
+            "owner": {
+                "reputation": 39,
+                "user_id": 15538584,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/c6abc62fc309e2f454344075d042f5b6?s=128&d=identicon&r=PG&f=1",
+                "display_name": "PucciLaCanton",
+                "link": "https://stackoverflow.com/users/15538584/puccilacanton"
+            },
+            "is_answered": false,
+            "view_count": 14,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1624811619,
+            "creation_date": 1624810565,
+            "last_edit_date": 1624810864,
+            "question_id": 68153103,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68153103/tkinter-text-widget-line-by-line-colorizing-animation",
+            "title": "Tkinter Text Widget Line By Line Colorizing Animation"
+        },
+        {
+            "tags": [
+                "python"
+            ],
+            "owner": {
+                "reputation": 1,
+                "user_id": 15541524,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a-/AOh14Ghk5JI9mAujlTdc9m7cCP4NRuuHBfDQYAaf_Eo=k-s128",
+                "display_name": "erfan es",
+                "link": "https://stackoverflow.com/users/15541524/erfan-es"
+            },
+            "is_answered": false,
+            "view_count": 17,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1624811592,
+            "creation_date": 1624807916,
+            "last_edit_date": 1624811592,
+            "question_id": 68152679,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68152679/i-want-to-calculate-the-second-root-i-use-def-but-when-i-run-it-i-get-missin",
+            "title": "I want to calculate the second root; I use def but when I run it I get : &quot;missing argument error&quot;"
+        },
+        {
+            "tags": [
+                "python"
+            ],
+            "owner": {
+                "reputation": 1,
+                "user_id": 14712981,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a-/AOh14Gg3m8Rt62Hrn0_yvz4w2ho4z9sTb5ERaJ1SXduVcw=k-s128",
+                "display_name": "B A C H A S H",
+                "link": "https://stackoverflow.com/users/14712981/b-a-c-h-a-s-h"
+            },
+            "is_answered": true,
+            "view_count": 35,
+            "answer_count": 3,
+            "score": -1,
+            "last_activity_date": 1624811585,
+            "creation_date": 1624807368,
+            "last_edit_date": 1624808073,
+            "question_id": 68152596,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68152596/loop-through-two-lists-to-find-if-an-element-from-1st-list-exists-in-the-2nd-lis",
+            "title": "loop through two lists to find if an element from 1st list exists in the 2nd list"
+        },
+        {
+            "tags": [
+                "python",
+                "python-3.x",
+                "pandas"
+            ],
+            "owner": {
+                "reputation": 21,
+                "user_id": 8421406,
+                "user_type": "registered",
+                "profile_image": "https://i.stack.imgur.com/ETUbc.jpg?s=128&g=1",
+                "display_name": "Chandan Kumar Yadav",
+                "link": "https://stackoverflow.com/users/8421406/chandan-kumar-yadav"
+            },
+            "is_answered": false,
+            "view_count": 51,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1624811565,
+            "creation_date": 1624617962,
+            "last_edit_date": 1624811565,
+            "question_id": 68129703,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68129703/fetch-data-from-second-dataframe-and-append-it-with-first-dataframe-if-condition",
+            "title": "Fetch data from second dataframe and append it with first dataframe if conditions are matched"
+        },
+        {
+            "tags": [
+                "python",
+                "mysql",
+                "flask",
+                "chart.js"
+            ],
+            "owner": {
+                "reputation": 3,
+                "user_id": 15307145,
+                "user_type": "registered",
+                "profile_image": "https://i.stack.imgur.com/WsyA3.jpg?s=128&g=1",
+                "display_name": "Dhoghe",
+                "link": "https://stackoverflow.com/users/15307145/dhoghe"
+            },
+            "is_answered": false,
+            "view_count": 15,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1624811560,
+            "creation_date": 1624811081,
+            "last_edit_date": 1624811560,
+            "question_id": 68153169,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68153169/how-to-get-the-number-of-same-words-of-a-specific-mysql-column",
+            "title": "How to get the number of same words of a specific MySQL column?"
+        },
+        {
+            "tags": [
+                "python",
+                "mysql",
+                "django"
+            ],
+            "owner": {
+                "reputation": 141,
+                "user_id": 15020312,
+                "user_type": "registered",
+                "profile_image": "https://graph.facebook.com/438041776841278/picture?type=large",
+                "display_name": "Hunar Mohammed",
+                "link": "https://stackoverflow.com/users/15020312/hunar-mohammed"
+            },
+            "is_answered": true,
+            "view_count": 32,
+            "answer_count": 2,
+            "score": 0,
+            "last_activity_date": 1624811532,
+            "creation_date": 1624794294,
+            "question_id": 68150814,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68150814/how-to-check-if-start-date-and-end-date-takes-then-raise-an-error-django",
+            "title": "how to check if start date and end date takes then raise an error django"
+        },
+        {
+            "tags": [
+                "python",
+                "json",
+                "pyinstaller",
+                "executable"
+            ],
+            "owner": {
+                "reputation": 45,
+                "user_id": 15986604,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AATXAJyvnA9xx_mjOiXtZmtTCM3DpEVx1vMPBpVP5g07=k-s128",
+                "display_name": "NewToPython",
+                "link": "https://stackoverflow.com/users/15986604/newtopython"
+            },
+            "is_answered": false,
+            "view_count": 5,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1624811518,
+            "creation_date": 1624811518,
+            "question_id": 68153227,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68153227/how-to-add-file-json-to-main-spec",
+            "title": "How to add file.json to main.spec"
+        },
+        {
+            "tags": [
+                "python",
+                "pandas",
+                "matplotlib"
+            ],
+            "owner": {
+                "reputation": 1,
+                "user_id": 16328468,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/b033ad729468e780c4c21f308a3a7d81?s=128&d=identicon&r=PG&f=1",
+                "display_name": "Dev",
+                "link": "https://stackoverflow.com/users/16328468/dev"
+            },
+            "is_answered": false,
+            "view_count": 11,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1624811460,
+            "creation_date": 1624810670,
+            "last_edit_date": 1624811460,
+            "question_id": 68153117,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68153117/facing-this-very-particular-error-while-trying-to-plot-a-diurnal-plot",
+            "title": "Facing this very particular error while trying to plot a diurnal plot"
+        },
+        {
+            "tags": [
+                "python",
+                "dataframe",
+                "conditional-statements"
+            ],
+            "owner": {
+                "reputation": 1,
+                "user_id": 16327535,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GjI4AvYWi1KajU4TzoWho2XdT1OYpiMGFD2Y63gAg=k-s128",
+                "display_name": "Parth Sharma",
+                "link": "https://stackoverflow.com/users/16327535/parth-sharma"
+            },
+            "is_answered": false,
+            "view_count": 33,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1624811448,
+            "creation_date": 1624800248,
+            "last_edit_date": 1624804072,
+            "question_id": 68151631,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68151631/conditional-concatenation-on-multiple-columns-in-python",
+            "title": "Conditional concatenation on multiple columns in Python"
+        },
+        {
+            "tags": [
+                "python",
+                "discord",
+                "discord.py"
+            ],
+            "owner": {
+                "reputation": 5,
+                "user_id": 16267043,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GiZlfjnPscjB-p29MymdUPmGDfbH1gzbjBUlIEk=k-s128",
+                "display_name": "Mario Arquette",
+                "link": "https://stackoverflow.com/users/16267043/mario-arquette"
+            },
+            "is_answered": false,
+            "view_count": 7,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1624811446,
+            "creation_date": 1624811446,
+            "question_id": 68153211,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68153211/allow-your-bot-to-read-multiple-values-of-a-variable-in-discord-py",
+            "title": "Allow your bot to read multiple values of a variable in discord.py"
+        },
+        {
+            "tags": [
+                "python",
+                "parallel-processing",
+                "delayed-job"
+            ],
+            "owner": {
+                "reputation": 111,
+                "user_id": 14695538,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/b6fbb369daae01a73aa1ad3130b7e3e8?s=128&d=identicon&r=PG&f=1",
+                "display_name": "Alex",
+                "link": "https://stackoverflow.com/users/14695538/alex"
+            },
+            "is_answered": false,
+            "view_count": 18,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1624811424,
+            "creation_date": 1624804714,
+            "last_edit_date": 1624811424,
+            "question_id": 68152236,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68152236/not-efficient-parallelisation",
+            "title": "Not efficient parallelisation"
+        },
+        {
+            "tags": [
+                "python",
+                "pandas",
+                "csv"
+            ],
+            "owner": {
+                "reputation": 25,
+                "user_id": 14031998,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/f94a17c74dc1cb5790bb5faeec167fc1?s=128&d=identicon&r=PG&f=1",
+                "display_name": "seneca",
+                "link": "https://stackoverflow.com/users/14031998/seneca"
+            },
+            "is_answered": true,
+            "view_count": 36,
+            "answer_count": 2,
+            "score": 0,
+            "last_activity_date": 1624811410,
+            "creation_date": 1624802545,
+            "last_edit_date": 1624807192,
+            "question_id": 68151950,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68151950/python-pandas-display-first-cell-in-rows-with-null-values-in-selected-column",
+            "title": "python pandas - display first cell in rows with NULL values in selected column"
+        },
+        {
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe",
+                "data-analysis"
+            ],
+            "owner": {
+                "reputation": 11,
+                "user_id": 16225006,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/dff001fe5e839c6f4c17bc3791c40933?s=128&d=identicon&r=PG",
+                "display_name": "Huma",
+                "link": "https://stackoverflow.com/users/16225006/huma"
+            },
+            "is_answered": false,
+            "view_count": 23,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1624811373,
+            "creation_date": 1624635985,
+            "last_edit_date": 1624811373,
+            "question_id": 68133739,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68133739/search-and-match-excel-filename-with-filename-column-and-sheetname-and-then-retu",
+            "title": "Search and match excel filename with filename column and sheetname and then return corresponding column value in pandas"
+        },
+        {
+            "tags": [
+                "python",
+                "numpy"
+            ],
+            "owner": {
+                "reputation": 1,
+                "user_id": 16088076,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GjJSdt7SXR40gr-TWpxT8IP7_CMBE6cYSxEzPaf=k-s128",
+                "display_name": "Lakshya4665 ssgk",
+                "link": "https://stackoverflow.com/users/16088076/lakshya4665-ssgk"
+            },
+            "is_answered": false,
+            "view_count": 19,
+            "closed_date": 1624809611,
+            "answer_count": 0,
+            "score": -3,
+            "last_activity_date": 1624811357,
+            "creation_date": 1624809340,
+            "last_edit_date": 1624811357,
+            "question_id": 68152926,
+            "link": "https://stackoverflow.com/questions/68152926/i-was-trying-to-change-my-dtype-of-my-numpys-2-dimensional-array-but-it-threw-a",
+            "closed_reason": "Not suitable for this site",
+            "title": "I WAS TRYING TO CHANGE MY dtype of my NUMPY&#39;S 2 DIMENSIONAL ARRAY BUT IT THREW AN ERROR PLEASE HELP ME OUT"
+        },
+        {
+            "tags": [
+                "python",
+                "regex",
+                "string",
+                "file-handling",
+                "string-matching"
+            ],
+            "owner": {
+                "reputation": 3,
+                "user_id": 16079355,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AATXAJwRekPSyEAESO9JnBS0rgYDsjXAAAPFc6Obk-8M=k-s128",
+                "display_name": "python_geek05",
+                "link": "https://stackoverflow.com/users/16079355/python-geek05"
+            },
+            "is_answered": false,
+            "view_count": 35,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1624811334,
+            "creation_date": 1624776363,
+            "last_edit_date": 1624778550,
+            "question_id": 68148674,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68148674/how-to-pick-useful-information-within-curly-braces-from-a-text-file-using-a-pyth",
+            "title": "How to pick useful information within curly braces from a text file using a python script?"
+        },
+        {
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe",
+                "join",
+                "merge"
+            ],
+            "owner": {
+                "reputation": 1,
+                "user_id": 16328386,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/fbc09a28342ba4f17d036e6011c92766?s=128&d=identicon&r=PG&f=1",
+                "display_name": "ExploringData",
+                "link": "https://stackoverflow.com/users/16328386/exploringdata"
+            },
+            "is_answered": false,
+            "view_count": 13,
+            "closed_date": 1624810674,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1624811280,
+            "creation_date": 1624809863,
+            "last_edit_date": 1624811280,
+            "question_id": 68153004,
+            "link": "https://stackoverflow.com/questions/68153004/how-can-i-add-a-column-based-on-matches-on-two-other-columns",
+            "closed_reason": "Duplicate",
+            "title": "How can I add a column based on matches on two other columns?"
+        },
+        {
+            "tags": [
+                "python",
+                "tkinter"
+            ],
+            "owner": {
+                "reputation": 9,
+                "user_id": 16324689,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AATXAJxhTAR-Ppp6RlfVPHo36e0cn1MJm_FqWcLalsw=k-s128",
+                "display_name": "qweqwed fsdfsf",
+                "link": "https://stackoverflow.com/users/16324689/qweqwed-fsdfsf"
+            },
+            "is_answered": false,
+            "view_count": 41,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1624811260,
+            "creation_date": 1624786008,
+            "question_id": 68149730,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68149730/how-to-run-two-functions-at-the-same-time-using-tkinter",
+            "title": "how to run two functions at the same time using tkinter"
+        },
+        {
+            "tags": [
+                "python",
+                "python-import",
+                "python-class"
+            ],
+            "owner": {
+                "reputation": 191,
+                "user_id": 5495134,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/8518881b514f7629e697841aa79ba32d?s=128&d=identicon&r=PG&f=1",
+                "display_name": "Rodrigo A",
+                "link": "https://stackoverflow.com/users/5495134/rodrigo-a"
+            },
+            "is_answered": false,
+            "view_count": 9,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1624811185,
+            "creation_date": 1624811185,
+            "question_id": 68153181,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68153181/best-way-to-handle-imports-used-by-only-some-python-classes",
+            "title": "Best way to handle imports used by only some Python classes"
+        },
+        {
+            "tags": [
+                "python",
+                "pandas",
+                "dataframe"
+            ],
+            "owner": {
+                "reputation": 12541,
+                "user_id": 1101083,
+                "user_type": "registered",
+                "accept_rate": 70,
+                "profile_image": "https://i.stack.imgur.com/ycwVS.png?s=128&g=1",
+                "display_name": "Himanshu Yadav",
+                "link": "https://stackoverflow.com/users/1101083/himanshu-yadav"
+            },
+            "is_answered": false,
+            "view_count": 25,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1624811181,
+            "creation_date": 1624809271,
+            "question_id": 68152914,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68152914/pandas-apply-agg-on-two-columns-at-a-time",
+            "title": "Pandas: Apply agg on two columns at a time"
+        },
+        {
+            "tags": [
+                "python",
+                "matplotlib"
+            ],
+            "owner": {
+                "reputation": 21,
+                "user_id": 15292884,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/e8e411d8ed3b45de693a1654e3cfbddc?s=128&d=identicon&r=PG",
+                "display_name": "user309678",
+                "link": "https://stackoverflow.com/users/15292884/user309678"
+            },
+            "is_answered": false,
+            "view_count": 14,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1624811158,
+            "creation_date": 1624808212,
+            "question_id": 68152732,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68152732/moving-a-graph-by-its-x-axis",
+            "title": "Moving a graph by its x axis"
+        },
+        {
+            "tags": [
+                "python",
+                "python-3.x",
+                "sqlite",
+                "python-db-api"
+            ],
+            "owner": {
+                "reputation": 1,
+                "user_id": 16222048,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/e8365c4a4bbf6fa6ddf8835e879dc826?s=128&d=identicon&r=PG&f=1",
+                "display_name": "WillyKeurig",
+                "link": "https://stackoverflow.com/users/16222048/willykeurig"
+            },
+            "is_answered": true,
+            "view_count": 11,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1624811093,
+            "creation_date": 1624809290,
+            "last_edit_date": 1624809599,
+            "question_id": 68152920,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://stackoverflow.com/questions/68152920/why-do-sqlite3-db-api-qmark-and-named-style-not-work-in-select-where-queries",
+            "title": "Why do sqlite3 DB_API qmark and named style not work in &quot;select where&quot; queries?"
+        }
+    ],
+    "has_more": true,
+    "quota_max": 300,
+    "quota_remaining": 274
+}
